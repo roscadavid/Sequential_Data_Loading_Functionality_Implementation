@@ -3,7 +3,7 @@ Sequential Data Loading Functionality Implementation
 
 The project involves extending the functionality of an existing website by adding the ability to load and display data from an external source sequentially, blending interactive elements and pleasant visualization for the user. Using the provided HTML and CSS documents, as well as the API from https://jsonplaceholder.typicode.com/posts/, the project will fetch data from this source and display it in an interactive manner on the webpage.
 
-Added Functionality:
+Functionality:
 1.Sequential Data Loading:
 
 The web page will load a single data item from the specified source.
